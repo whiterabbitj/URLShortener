@@ -28,7 +28,7 @@ namespace MainWebsite
             var urlResult = Request.Form["TxtSubmitUrl"];
 
             //check if proper URL 
-            if (UrlIsValid(urlResult) && !string.IsNullOrEmpty(urlResult))
+            if (Uri.IsWellFormedUriString(urlResult, UriKind.Absolute) && !string.IsNullOrEmpty(urlResult))
             {
                 //post Data
                 da.AsyncApiCall(urlResult, Endpoint).Wait();
@@ -49,19 +49,5 @@ namespace MainWebsite
 
         }
 
-        private static bool UrlIsValid(string smtpHost)
-        {
-            bool br;
-            try {
-                IPHostEntry ipHost = Dns.Resolve(smtpHost);
-                br = true;
-            }
-            catch (SocketException)
-            {
-                br = false;
-            }
-            return br;
-        }
-        
     }
 }
