@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Net;
+using System.Net.NetworkInformation;
 using System.Net.Sockets;
 using MainWebsite.DA;
 
@@ -28,7 +29,7 @@ namespace MainWebsite
             var urlResult = Request.Form["TxtSubmitUrl"];
 
             //check if proper URL 
-            if (Uri.IsWellFormedUriString(urlResult, UriKind.Relative) && !string.IsNullOrEmpty(urlResult))
+            if (GetResponseBody(urlResult) && !string.IsNullOrEmpty(urlResult))
             {
                 //post Data
                 da.AsyncApiCall(urlResult, Endpoint).Wait();
@@ -46,6 +47,24 @@ namespace MainWebsite
                 ccButton.Visible = true;
                 clipboard.Visible = false;
             }
+
+        }
+
+        private bool GetResponseBody(string url)
+        {   
+               if (!url.StartsWith("https") && !url.StartsWith("http"))
+                   url = "http://" + url;
+               var request = WebRequest.Create(url);
+               try
+               {
+                   request.GetResponse();
+               }
+               catch //If exception thrown then couldn't get response from address
+               {
+                   return false;
+               }
+
+               return true;
 
         }
 
