@@ -28,7 +28,7 @@ namespace MainWebsite
             var urlResult = Request.Form["TxtSubmitUrl"];
 
             //check if proper URL 
-            if (Uri.IsWellFormedUriString(urlResult, UriKind.RelativeOrAbsolute) && !string.IsNullOrEmpty(urlResult))
+            if (Uri.IsWellFormedUriString(urlResult, UriKind.Relative) && !string.IsNullOrEmpty(urlResult))
             {
                 //post Data
                 da.AsyncApiCall(urlResult, Endpoint).Wait();
