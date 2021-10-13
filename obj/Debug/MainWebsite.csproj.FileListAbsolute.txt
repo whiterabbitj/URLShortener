@@ -1,0 +1,140 @@
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/MainWebsite.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/MainWebsite.pdb
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/obj/Debug/MainWebsite.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/obj/Debug/MainWebsite.pdb
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/obj/Debug/MainWebsite.csproj.CoreCompileInputs.cache
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/obj/Debug/MainWebsite.csproj.AssemblyReference.cache
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/MainWebsite.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/MainWebsite.pdb
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/obj/Debug/MainWebsite.csproj.AssemblyReference.cache
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/obj/Debug/MainWebsite.csproj.CoreCompileInputs.cache
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/obj/Debug/MainWebsite.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/obj/Debug/MainWebsite.pdb
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.IO.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Runtime.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Security.Cryptography.Algorithms.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Security.Cryptography.Encoding.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Security.Cryptography.Primitives.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/obj/Debug/MainWebsite.csproj.CopyComplete
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Newtonsoft.Json.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Newtonsoft.Json.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.Features.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.WebUtilities.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.Binder.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Logging.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.ObjectPool.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Options.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Primitives.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Net.Http.Headers.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.Extensions.Logging.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.Web.AspNetCore.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Buffers.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Memory.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Numerics.Vectors.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Text.Encodings.Web.dll
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Http.Features.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.Routing.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.AspNetCore.WebUtilities.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Configuration.Binder.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Hosting.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Logging.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.ObjectPool.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Options.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Extensions.Primitives.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/Microsoft.Net.Http.Headers.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.Extensions.Logging.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/NLog.Web.AspNetCore.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Buffers.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Memory.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Numerics.Vectors.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Runtime.CompilerServices.Unsafe.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Text.Encodings.Web.xml
+/Users/whiterabbitj/Projects/MainWebsite copy/MainWebsite/bin/System.Net.Http.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.Features.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.WebUtilities.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.Binder.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Logging.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.ObjectPool.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Options.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Primitives.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Net.Http.Headers.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Newtonsoft.Json.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.Extensions.Logging.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.Web.AspNetCore.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Buffers.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.IO.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Memory.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Net.Http.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Numerics.Vectors.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Runtime.CompilerServices.Unsafe.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Runtime.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Security.Cryptography.Algorithms.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Security.Cryptography.Encoding.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Security.Cryptography.Primitives.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Security.Cryptography.X509Certificates.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Text.Encodings.Web.dll
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Http.Features.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.Routing.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.AspNetCore.WebUtilities.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Configuration.Binder.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.DependencyInjection.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.FileProviders.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Hosting.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Logging.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Logging.Abstractions.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.ObjectPool.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Options.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Extensions.Primitives.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Microsoft.Net.Http.Headers.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/Newtonsoft.Json.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.Extensions.Logging.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/NLog.Web.AspNetCore.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Buffers.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Memory.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Numerics.Vectors.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Runtime.CompilerServices.Unsafe.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/bin/System.Text.Encodings.Web.xml
+/Users/whiterabbitj/Projects/MainWebsite/MainWebsite/obj/Debug/MainWebsite.csproj.CopyComplete
