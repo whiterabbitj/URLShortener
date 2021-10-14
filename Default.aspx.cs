@@ -29,7 +29,7 @@ namespace MainWebsite
             var urlResult = Request.Form["TxtSubmitUrl"];
 
             //check if proper URL 
-           if(string.IsNullOrEmpty(urlResult))
+           if(!string.IsNullOrEmpty(urlResult))
             {
                  if (GetResponseBody(urlResult))
                  {
